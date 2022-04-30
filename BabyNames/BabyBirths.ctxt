@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BabyBirths
+comment1.params=
+comment1.target=void\ printNames()
+comment2.params=fr
+comment2.target=int\ totalBirths(edu.duke.FileResource)
+comment3.params=fr\ gender
+comment3.target=int\ birthsByGender(edu.duke.FileResource,\ java.lang.String)
+comment4.params=
+comment4.target=void\ testTotalBirths()
+numComments=5
